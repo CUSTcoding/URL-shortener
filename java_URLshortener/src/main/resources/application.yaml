@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: java_URLshortener
+
+BASE_URL: http://localhost:3033
+server:
+  port: 3033
